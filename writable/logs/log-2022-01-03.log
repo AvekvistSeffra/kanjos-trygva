@@ -1,0 +1,334 @@
+CRITICAL - 2022-01-03 14:55:20 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 14:55:21 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 14:55:21 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 14:55:22 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 14:55:23 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 14:55:35 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 14:55:36 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 14:55:37 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 14:55:55 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 14:55:56 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 14:55:57 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 15:04:32 --> syntax error, unexpected '}', expecting ';'
+#0 C:\server\htdocs\CodeIgniter\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('users/check')
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('users/check')
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:04:34 --> syntax error, unexpected '}', expecting ';'
+#0 C:\server\htdocs\CodeIgniter\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('users/check')
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('users/check')
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:06:04 --> Trying to access array offset on value of type null
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(53): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\server\\htdoc...', 53, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:06:05 --> Trying to access array offset on value of type null
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(53): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\server\\htdoc...', 53, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:10:42 --> Undefined property: App\Controllers\users::$db
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\server\\htdoc...', 59, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:10:43 --> Undefined property: App\Controllers\users::$db
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\server\\htdoc...', 59, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:10:43 --> Undefined property: App\Controllers\users::$db
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\server\\htdoc...', 59, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:10:44 --> Undefined property: App\Controllers\users::$db
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\server\\htdoc...', 59, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-01-03 15:19:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-01-03 15:19:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * FROM u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-03 15:19:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-01-03 15:19:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * FROM u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-03 15:19:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-01-03 15:19:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * FROM u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-03 15:21:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-01-03 15:21:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * from u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-03 15:21:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-01-03 15:21:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * from u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-03 15:22:13 --> A non-numeric value encountered
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\server\\htdoc...', 66, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:22:14 --> A non-numeric value encountered
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\server\\htdoc...', 66, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-01-03 15:25:13 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-01-03 15:25:13 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * FROM u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-03 15:25:15 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-01-03 15:25:15 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * FROM u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-03 15:26:33 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1
+CRITICAL - 2022-01-03 15:26:33 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * FROM u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-03 15:26:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1
+CRITICAL - 2022-01-03 15:26:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * FROM u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-03 15:30:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-01-03 15:30:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * FROM u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-03 15:30:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-01-03 15:30:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM u...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM u...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM u...')
+#3 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(66): CodeIgniter\Database\BaseConnection->query('SELECT * FROM u...')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#6 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-03 15:49:52 --> Undefined offset: 0
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\server\\htdoc...', 44, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:49:52 --> Undefined offset: 0
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\server\\htdoc...', 44, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:49:52 --> Undefined offset: 0
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\server\\htdoc...', 44, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:51:09 --> Trying to access array offset on value of type null
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\server\\htdoc...', 45, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:52:13 --> Trying to access array offset on value of type null
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\server\\htdoc...', 45, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:52:14 --> Trying to access array offset on value of type null
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\server\\htdoc...', 45, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:52:50 --> Trying to access array offset on value of type null
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\server\\htdoc...', 45, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:52:51 --> Trying to access array offset on value of type null
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\server\\htdoc...', 45, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:52:51 --> Trying to access array offset on value of type null
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\server\\htdoc...', 45, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:52:52 --> Trying to access array offset on value of type null
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\server\\htdoc...', 45, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-03 15:52:52 --> Trying to access array offset on value of type null
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\server\\htdoc...', 45, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

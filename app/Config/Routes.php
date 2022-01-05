@@ -33,6 +33,12 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 
+$routes->get('users', 'Users::index');
+$routes->post('users', 'Users::store');
+$routes->get('users/(:num)', 'Users::show/$1');
+$routes->post('users/(:num)', 'Users::update/$1');
+$routes->delete('users/(:num)', 'Users::destroy/$1');
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing

@@ -1,0 +1,128 @@
+CRITICAL - 2022-01-02 03:44:09 --> Undefined index: name
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\normal.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\server\\htdoc...', 17, Array)
+#1 C:\server\htdocs\CodeIgniter\system\Router\Router.php(519): include_once('C:\\server\\htdoc...')
+#2 C:\server\htdocs\CodeIgniter\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('normal')
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('normal')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-02 03:46:15 --> Undefined index: name
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\normal.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\server\\htdoc...', 17, Array)
+#1 C:\server\htdocs\CodeIgniter\system\Router\Router.php(519): include_once('C:\\server\\htdoc...')
+#2 C:\server\htdocs\CodeIgniter\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('normal')
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('normal')
+#4 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-02 04:01:01 --> Undefined property: App\Controllers\users::$input
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\server\\htdoc...', 22, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->create()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-01-02 17:06:59 --> Column 'name' cannot be null
+CRITICAL - 2022-01-02 17:06:59 --> Column 'name' cannot be null
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\server\htdocs\CodeIgniter\system\Database\BaseBuilder.php(1759): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\server\htdocs\CodeIgniter\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\server\htdocs\CodeIgniter\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\server\htdocs\CodeIgniter\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(32): CodeIgniter\Model->insert(Array)
+#8 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->create()
+#9 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#10 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-02 17:12:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password
+ LIMIT 1' at line 3
+CRITICAL - 2022-01-02 17:12:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password
+ LIMIT 1' at line 3
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\server\htdocs\CodeIgniter\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\server\htdocs\CodeIgniter\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\server\htdocs\CodeIgniter\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(52): CodeIgniter\BaseModel->first()
+#7 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#8 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#9 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-01-02 17:17:20 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password
+ LIMIT 1' at line 3
+CRITICAL - 2022-01-02 17:17:20 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password
+ LIMIT 1' at line 3
+#0 C:\server\htdocs\CodeIgniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\server\htdocs\CodeIgniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\server\htdocs\CodeIgniter\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\server\htdocs\CodeIgniter\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\server\htdocs\CodeIgniter\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(52): CodeIgniter\BaseModel->first()
+#7 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->check()
+#8 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#9 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-02 17:25:37 --> Undefined index: name
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\server\\htdoc...', 19, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->index()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-02 17:26:14 --> Undefined index: name
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\server\\htdoc...', 19, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->index()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-02 17:26:14 --> Undefined index: name
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\server\\htdoc...', 19, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->index()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-02 17:26:14 --> Undefined index: name
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\server\\htdoc...', 19, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->index()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-02 17:26:14 --> Undefined index: name
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\server\\htdoc...', 19, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->index()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-02 17:26:14 --> Undefined index: name
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\server\\htdoc...', 19, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->index()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-02 17:26:15 --> Undefined index: name
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\server\\htdoc...', 19, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->index()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-02 17:26:15 --> Undefined index: name
+#0 C:\server\htdocs\CodeIgniter\app\Controllers\users.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\server\\htdoc...', 19, Array)
+#1 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(824): App\Controllers\users->index()
+#2 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\users))
+#3 C:\server\htdocs\CodeIgniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\server\htdocs\CodeIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
