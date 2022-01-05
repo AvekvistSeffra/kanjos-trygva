@@ -1,5 +1,9 @@
 <?php
 
+header("Access-Control-Allow-Methods: GET, POST, DELETE");
+header("Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding, Authorization");
+header("Access-Control-Allow-Origin: *");
+
 // Path to the front controller (this file)
 define('FCPATH', __DIR__ . DIRECTORY_SEPARATOR);
 
