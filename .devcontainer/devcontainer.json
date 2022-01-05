@@ -26,8 +26,9 @@
 		"felixfbecker.php-debug",
 		"felixfbecker.php-intellisense",
 		"mrmlnc.vscode-apache",
-		"mtxr.sqltools",
-		"mtxr.sqltools-driver-mysql"
+		"rangav.vscode-thunder-client",
+		"cweijan.vscode-mysql-client2",
+		"bmewburn.vscode-intelephense-client",
 	],
 
 	// For use with PHP or Apache (e.g.php -S localhost:8080 or apache2ctl start)
