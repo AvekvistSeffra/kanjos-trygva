@@ -7,7 +7,7 @@ class UserModel extends Model
 {
     protected $table = 'users';
     protected $primaryKey = 'id';
-    protected $allowedFields = ['name', "phone_number", 'email', "password"];
+    protected $allowedFields = ['name', "phone", 'email', "password"];
 
     public function findUserById($id)
     {

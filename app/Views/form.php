@@ -113,7 +113,7 @@
     // Sign in Ajax
     $("#submit_sign_in").click(function() {
       var name = $("#name2").val();
-      var phone_number = $("#phone_number2").val();
+      var phone = $("#phone_number2").val();
       var email = $("#email2").val();
       var password = $("#password2").val();
       if (name == "" || email == "" || password == "") {
@@ -126,7 +126,7 @@
         url: "<?php echo base_url("/users"); ?>",
         data: {
           "name": name,
-          "phone_number": phone_number,
+          "phone": phone,
           "email": email,
           "password": password,
         },
